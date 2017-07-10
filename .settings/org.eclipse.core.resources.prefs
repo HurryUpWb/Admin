@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//WebContent/css/admin.css=UTF-8
+encoding//WebContent/css/login.css=UTF-8
+encoding//WebContent/css/pintuer.css=UTF-8
+encoding//WebContent/jsp/userview/ListAllUser.jsp=UTF-8
+encoding//src/Beans/User.java=UTF-8
+encoding//src/DAO/Dao.java=GBK
+encoding//src/DAO/ReflectionUtils.java=GBK
+encoding/<project>=UTF-8
